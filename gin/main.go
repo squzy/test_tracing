@@ -12,8 +12,8 @@ import (
 
 func main() {
 	squzy, err := core.CreateApplication(nil, &core.Options{
-		ApiHost:         "http://localhost:8080",
-		ApplicationName: "Go app test gin",
+		ApiHost:         "http://localhost:8082",
+		ApplicationName: "Go application GIN",
 	})
 
 	if err != nil {

@@ -35,8 +35,8 @@ func (s *server) Echo(ctx context.Context, msg *service.EchoMsg) (*service.EchoM
 
 func main() {
 	squzy, err := core.CreateApplication(nil, &core.Options{
-		ApiHost:         "http://localhost:8080",
-		ApplicationName: "Go app test grpc",
+		ApiHost:         "http://localhost:8082",
+		ApplicationName: "Go application GRPC",
 	})
 
 	if err != nil {
