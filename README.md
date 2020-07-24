@@ -9,7 +9,7 @@ That project have 2 service:
 
 On that page you can see every request on every service together in one transaction
 
-[**LINK**](Screenshot 2020-07-24 at 22.33.36)
+[**LINK**](https://demo.squzy.app/transactions/om8l8LP96PRsvx67UxkES)
 
 ![Page](https://github.com/squzy/test_tracing/blob/master/example.png)
 
